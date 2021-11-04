@@ -1,0 +1,208 @@
+Generation 1
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 39, 'devFactor': 5, 'trendTimeperiod': 151, 'gradient': 0.04163247599720626, 'stoploss': 1.2255892487137263, 'maxLastExit': 9}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 26, 'devFactor': 4, 'trendTimeperiod': 230, 'gradient': 0.09814136405578165, 'stoploss': 3.896873384700636, 'maxLastExit': 4}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 34, 'devFactor': 1, 'trendTimeperiod': 214, 'gradient': 0.027719077548101125, 'stoploss': 1.0920993959626335, 'maxLastExit': 17}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 15, 'devFactor': 4, 'trendTimeperiod': 296, 'gradient': 0.08881794501285109, 'stoploss': 1.9990303526052149, 'maxLastExit': 6}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 48, 'devFactor': 2, 'trendTimeperiod': 171, 'gradient': 0.03212810800533307, 'stoploss': 2.1869133282237696, 'maxLastExit': 11}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 26, 'devFactor': 1, 'trendTimeperiod': 288, 'gradient': 0.0807912582091281, 'stoploss': 1.892809279153633, 'maxLastExit': 6}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 38, 'devFactor': 3, 'trendTimeperiod': 184, 'gradient': 0.011058953869208278, 'stoploss': 3.642825819044804, 'maxLastExit': 7}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 45, 'devFactor': 1, 'trendTimeperiod': 278, 'gradient': 0.0642650643398978, 'stoploss': 2.45697162523976, 'maxLastExit': 8}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 14, 'devFactor': 2, 'trendTimeperiod': 208, 'gradient': 0.0008392571150819261, 'stoploss': 2.9461478655697335, 'maxLastExit': 4}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 39, 'devFactor': 2, 'trendTimeperiod': 299, 'gradient': 0.08860055239038406, 'stoploss': 1.8129910018419486, 'maxLastExit': 1}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 29, 'devFactor': 3, 'trendTimeperiod': 238, 'gradient': 0.04133615131673932, 'stoploss': 2.4210113351024054, 'maxLastExit': 9}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 23, 'devFactor': 4, 'trendTimeperiod': 155, 'gradient': 0.055416808047045234, 'stoploss': 3.860015992872473, 'maxLastExit': 10}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 31, 'devFactor': 1, 'trendTimeperiod': 250, 'gradient': 0.023680368111339545, 'stoploss': 2.245226470341447, 'maxLastExit': 3}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 36, 'devFactor': 3, 'trendTimeperiod': 260, 'gradient': 0.0244056011914337, 'stoploss': 0.5992667759454833, 'maxLastExit': 16}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 45, 'devFactor': 5, 'trendTimeperiod': 174, 'gradient': 0.025037172968328095, 'stoploss': 2.5639338925743607, 'maxLastExit': 1}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 11, 'devFactor': 2, 'trendTimeperiod': 229, 'gradient': 0.04481191254485363, 'stoploss': 1.684343942287525, 'maxLastExit': 7}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 23, 'devFactor': 2, 'trendTimeperiod': 205, 'gradient': 0.019541616024466437, 'stoploss': 0.4247537246939189, 'maxLastExit': 17}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 33, 'devFactor': 1, 'trendTimeperiod': 187, 'gradient': 0.008591691152021897, 'stoploss': 2.614081322085486, 'maxLastExit': 7}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 45, 'devFactor': 1, 'trendTimeperiod': 253, 'gradient': 0.06818975574678682, 'stoploss': 0.5233985142943469, 'maxLastExit': 4}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 30, 'devFactor': 4, 'trendTimeperiod': 174, 'gradient': 0.02808469810700337, 'stoploss': 0.7314246872422832, 'maxLastExit': 12}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 10, 'devFactor': 2, 'trendTimeperiod': 252, 'gradient': 0.009497133875365339, 'stoploss': 1.34486857605647, 'maxLastExit': 8}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 43, 'devFactor': 3, 'trendTimeperiod': 189, 'gradient': 0.05231748899171812, 'stoploss': 0.6470237961705058, 'maxLastExit': 1}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 33, 'devFactor': 2, 'trendTimeperiod': 237, 'gradient': 0.08833288569230377, 'stoploss': 2.7927128261840095, 'maxLastExit': 5}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 12, 'devFactor': 4, 'trendTimeperiod': 270, 'gradient': 0.09004226605961989, 'stoploss': 0.7238899677046939, 'maxLastExit': 16}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 46, 'devFactor': 3, 'trendTimeperiod': 237, 'gradient': 0.008059042929355909, 'stoploss': 0.7343406106738444, 'maxLastExit': 9}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 47, 'devFactor': 3, 'trendTimeperiod': 279, 'gradient': 0.083793846874573, 'stoploss': 3.0931124596823474, 'maxLastExit': 10}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 41, 'devFactor': 1, 'trendTimeperiod': 291, 'gradient': 0.02984300090561445, 'stoploss': 0.8897134736736669, 'maxLastExit': 2}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 43, 'devFactor': 1, 'trendTimeperiod': 211, 'gradient': 0.0704447141410757, 'stoploss': 2.2027589639618657, 'maxLastExit': 7}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 13, 'devFactor': 3, 'trendTimeperiod': 251, 'gradient': 0.09404209085728706, 'stoploss': 0.8540108037103813, 'maxLastExit': 16}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 16, 'devFactor': 2, 'trendTimeperiod': 254, 'gradient': 0.02073992510801135, 'stoploss': 0.5106209884502971, 'maxLastExit': 15}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 25, 'devFactor': 1, 'trendTimeperiod': 252, 'gradient': 0.03852586775353857, 'stoploss': 3.5100587200828706, 'maxLastExit': 19}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 14, 'devFactor': 1, 'trendTimeperiod': 276, 'gradient': 0.0036962480524118657, 'stoploss': 2.1755848682092975, 'maxLastExit': 2}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 29, 'devFactor': 1, 'trendTimeperiod': 278, 'gradient': 0.05535760407336962, 'stoploss': 3.467398740186154, 'maxLastExit': 6}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 36, 'devFactor': 2, 'trendTimeperiod': 183, 'gradient': 0.029910172525502456, 'stoploss': 1.0715510205351766, 'maxLastExit': 16}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 29, 'devFactor': 2, 'trendTimeperiod': 291, 'gradient': 0.015249837721990723, 'stoploss': 2.0442166139241, 'maxLastExit': 2}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 13, 'devFactor': 3, 'trendTimeperiod': 274, 'gradient': 0.02153905438148316, 'stoploss': 2.5194663677743514, 'maxLastExit': 1}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 41, 'devFactor': 4, 'trendTimeperiod': 261, 'gradient': 0.0026135583779059003, 'stoploss': 2.3598161789418155, 'maxLastExit': 16}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 31, 'devFactor': 4, 'trendTimeperiod': 236, 'gradient': 0.02369339366633402, 'stoploss': 1.076068576531246, 'maxLastExit': 13}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 26, 'devFactor': 4, 'trendTimeperiod': 216, 'gradient': 0.0790603593388342, 'stoploss': 2.5667498564700115, 'maxLastExit': 12}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 12, 'devFactor': 3, 'trendTimeperiod': 217, 'gradient': 0.042324972840373815, 'stoploss': 2.0582747952699214, 'maxLastExit': 5}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 25, 'devFactor': 5, 'trendTimeperiod': 153, 'gradient': 0.076870121365604, 'stoploss': 1.5958423786549292, 'maxLastExit': 4}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 16, 'devFactor': 1, 'trendTimeperiod': 174, 'gradient': 0.05084196940720766, 'stoploss': 0.7472778506530914, 'maxLastExit': 20}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 29, 'devFactor': 3, 'trendTimeperiod': 183, 'gradient': 0.02221437764242621, 'stoploss': 0.42445413108456786, 'maxLastExit': 11}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 48, 'devFactor': 1, 'trendTimeperiod': 159, 'gradient': 0.0005599336248789721, 'stoploss': 1.6473450428748706, 'maxLastExit': 4}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 46, 'devFactor': 4, 'trendTimeperiod': 212, 'gradient': 0.0340977292023279, 'stoploss': 2.062397380970276, 'maxLastExit': 4}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 19, 'devFactor': 2, 'trendTimeperiod': 165, 'gradient': 0.04443792608813353, 'stoploss': 1.6852613203307467, 'maxLastExit': 3}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 46, 'devFactor': 3, 'trendTimeperiod': 217, 'gradient': 0.02071969753797395, 'stoploss': 3.120295147008908, 'maxLastExit': 6}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 19, 'devFactor': 5, 'trendTimeperiod': 224, 'gradient': 0.024335316726267764, 'stoploss': 2.1089848907733133, 'maxLastExit': 8}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 41, 'devFactor': 3, 'trendTimeperiod': 300, 'gradient': 0.015347467494601575, 'stoploss': 0.6730520827248974, 'maxLastExit': 8}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 36, 'devFactor': 1, 'trendTimeperiod': 202, 'gradient': 0.09315684544800074, 'stoploss': 1.6458750087809835, 'maxLastExit': 2}
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-23.590751109620285_lowestLow--4.026586068098153_highestHigh-25.58015900505047_numberOfHighs-40.0_numberOfLows-50.0_tradeCount-91.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent--2.2298547296668323_lowestLow--3.420488118030814_highestHigh-0.9677425680573775_numberOfHighs-8.0_numberOfLows-7.0_tradeCount-15.0
+_returnsPercent--4.5529573016794265_lowestLow--2.448946101670183_highestHigh-3.324813084649382_numberOfHighs-2.0_numberOfLows-5.0_tradeCount-7.0
+_returnsPercent-4.4021924131941175_lowestLow--2.1436824474345593_highestHigh-3.7912338988065413_numberOfHighs-18.0_numberOfLows-12.0_tradeCount-30.0
+_returnsPercent--13.299841343903013_lowestLow--5.805277013324337_highestHigh-0.42519433199650364_numberOfHighs-4.0_numberOfLows-8.0_tradeCount-12.0
+_returnsPercent-6.5641698367367045_lowestLow--5.898797485031817_highestHigh-14.4634862272553_numberOfHighs-286.0_numberOfLows-323.0_tradeCount-615.0
+_returnsPercent--1.7111047736860334_lowestLow--1.7111047736860334_highestHigh-0_numberOfHighs-0.0_numberOfLows-1.0_tradeCount-1.0
+_returnsPercent--0.13801635216451455_lowestLow--0.17698762083767267_highestHigh-0.03897126867315812_numberOfHighs-1.0_numberOfLows-1.0_tradeCount-2.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-21.69843548131914_lowestLow--4.026586068098153_highestHigh-27.761309845049276_numberOfHighs-116.0_numberOfLows-122.0_tradeCount-241.0
+_returnsPercent-19.621426360235755_lowestLow--5.038339297224024_highestHigh-24.977988459138693_numberOfHighs-7.0_numberOfLows-4.0_tradeCount-11.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-10.66364886850305_lowestLow--1.4446632130025177_highestHigh-5.043288223921997_numberOfHighs-22.0_numberOfLows-17.0_tradeCount-39.0
+_returnsPercent-6.339675929293466_lowestLow--3.3793455030293593_highestHigh-15.083831083182323_numberOfHighs-50.0_numberOfLows-61.0_tradeCount-112.0
+_returnsPercent-32.53460701672129_lowestLow--4.026586068098153_highestHigh-25.58015900505047_numberOfHighs-235.0_numberOfLows-284.0_tradeCount-524.0
+_returnsPercent--14.942182441352323_lowestLow--5.805277013324337_highestHigh-0.49008446730240196_numberOfHighs-6.0_numberOfLows-8.0_tradeCount-14.0
+_returnsPercent-0.4074489389247417_lowestLow-0_highestHigh-0.4074489389247417_numberOfHighs-1.0_numberOfLows-0.0_tradeCount-1.0
+_returnsPercent-15.979267596476943_lowestLow--2.072576207076845_highestHigh-14.448923204773465_numberOfHighs-191.0_numberOfLows-202.0_tradeCount-394.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent--1.4745062935493545_lowestLow--2.375291277460372_highestHigh-0.9007849839110174_numberOfHighs-1.0_numberOfLows-1.0_tradeCount-2.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-13.311215166296583_lowestLow--5.038339297224024_highestHigh-23.338379175679492_numberOfHighs-22.0_numberOfLows-14.0_tradeCount-36.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-22.906372503433655_lowestLow--4.267563381110185_highestHigh-26.137025730249885_numberOfHighs-84.0_numberOfLows-76.0_tradeCount-163.0
+_returnsPercent--6.145661380772124_lowestLow--2.757987466846288_highestHigh-1.1254816122044604_numberOfHighs-6.0_numberOfLows-6.0_tradeCount-12.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-25.716368198813193_lowestLow--1.5819786763710781_highestHigh-14.4634862272553_numberOfHighs-60.0_numberOfLows-50.0_tradeCount-112.0
+_returnsPercent-25.342067818888573_lowestLow--2.4308869940124302_highestHigh-28.51320243555337_numberOfHighs-30.0_numberOfLows-28.0_tradeCount-59.0
+_returnsPercent-18.3896580903166_lowestLow--7.696775562973966_highestHigh-14.4634862272553_numberOfHighs-839.0_numberOfLows-833.0_tradeCount-1697.0
+_returnsPercent--10.907501023164192_lowestLow--2.6316697760346726_highestHigh-3.324813084649382_numberOfHighs-12.0_numberOfLows-16.0_tradeCount-28.0
+_returnsPercent-22.456281919403175_lowestLow--3.420488118030814_highestHigh-25.38792317673426_numberOfHighs-18.0_numberOfLows-15.0_tradeCount-34.0
+_returnsPercent-8.673580265819034_lowestLow--4.485706846437383_highestHigh-27.56573515061177_numberOfHighs-78.0_numberOfLows-83.0_tradeCount-164.0
+_returnsPercent-15.636445028764715_lowestLow-0_highestHigh-14.4634862272553_numberOfHighs-4.0_numberOfLows-0.0_tradeCount-4.0
+_returnsPercent-18.71014556759474_lowestLow--3.161768261233971_highestHigh-23.949020554568335_numberOfHighs-7.0_numberOfLows-5.0_tradeCount-12.0
+_returnsPercent-0.4074489389247417_lowestLow-0_highestHigh-0.4074489389247417_numberOfHighs-1.0_numberOfLows-0.0_tradeCount-1.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-0.08501642885043584_lowestLow-0_highestHigh-0.08501642885043584_numberOfHighs-1.0_numberOfLows-0.0_tradeCount-1.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent--5.903413717652182_lowestLow--4.583109756462438_highestHigh-4.477139005038807_numberOfHighs-21.0_numberOfLows-27.0_tradeCount-48.0
+_returnsPercent--0.328962939517228_lowestLow--2.1436824474345593_highestHigh-0.6026608710975273_numberOfHighs-7.0_numberOfLows-3.0_tradeCount-10.0
+_returnsPercent--19.29084577377612_lowestLow--5.249911640534276_highestHigh-6.380786515848714_numberOfHighs-280.0_numberOfLows-328.0_tradeCount-624.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent--1.2095019139363652_lowestLow--5.898797485031817_highestHigh-5.980124256576699_numberOfHighs-17.0_numberOfLows-24.0_tradeCount-41.0
+_returnsPercent-12.102528972400592_lowestLow--5.038339297224024_highestHigh-23.338379175679492_numberOfHighs-7.0_numberOfLows-6.0_tradeCount-13.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-21.095983097989844_lowestLow--5.038339297224024_highestHigh-25.532184947713393_numberOfHighs-15.0_numberOfLows-9.0_tradeCount-24.0
+_returnsPercent--3.960165660724365_lowestLow--4.026586068098153_highestHigh-0.8100336817372961_numberOfHighs-8.0_numberOfLows-5.0_tradeCount-13.0
+
+
+
+Generation 1
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 12, 'devFactor': 3, 'trendTimeperiod': 270, 'gradient': 0.09404209085728706, 'stoploss': 0.7238899677046939, 'maxLastExit': 16}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 12, 'devFactor': 5, 'trendTimeperiod': 258, 'gradient': 0.0817167753508169, 'stoploss': 1.3333175346836175, 'maxLastExit': 19}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 23, 'devFactor': 5, 'trendTimeperiod': 241, 'gradient': 0.07480878913827779, 'stoploss': 2.5830224650757954, 'maxLastExit': 5}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 25, 'devFactor': 1, 'trendTimeperiod': 153, 'gradient': 0.023680368111339545, 'stoploss': 1.5958423786549292, 'maxLastExit': 3}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 28, 'devFactor': 5, 'trendTimeperiod': 212, 'gradient': 0.04621075583424731, 'stoploss': 1.4647252054324962, 'maxLastExit': 20}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 10, 'devFactor': 1, 'trendTimeperiod': 252, 'gradient': 0.09315684544800074, 'stoploss': 1.34486857605647, 'maxLastExit': 2}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 46, 'devFactor': 1, 'trendTimeperiod': 217, 'gradient': 0.0704447141410757, 'stoploss': 3.120295147008908, 'maxLastExit': 7}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 14, 'devFactor': 3, 'trendTimeperiod': 208, 'gradient': 0.04133615131673932, 'stoploss': 2.9461478655697335, 'maxLastExit': 9}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 16, 'devFactor': 2, 'trendTimeperiod': 174, 'gradient': 0.0008392571150819261, 'stoploss': 0.7472778506530914, 'maxLastExit': 4}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 41, 'devFactor': 2, 'trendTimeperiod': 291, 'gradient': 0.04443792608813353, 'stoploss': 0.8897134736736669, 'maxLastExit': 3}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 13, 'devFactor': 1, 'trendTimeperiod': 274, 'gradient': 0.05084196940720766, 'stoploss': 2.5194663677743514, 'maxLastExit': 20}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 10, 'devFactor': 3, 'trendTimeperiod': 160, 'gradient': 0.010896858848195124, 'stoploss': 2.029129797616819, 'maxLastExit': 15}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 19, 'devFactor': 1, 'trendTimeperiod': 165, 'gradient': 0.02984300090561445, 'stoploss': 1.6852613203307467, 'maxLastExit': 2}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 40, 'devFactor': 1, 'trendTimeperiod': 242, 'gradient': 0.05655780471521104, 'stoploss': 1.3242309620567494, 'maxLastExit': 8}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 41, 'devFactor': 5, 'trendTimeperiod': 300, 'gradient': 0.04163247599720626, 'stoploss': 0.6730520827248974, 'maxLastExit': 9}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 29, 'devFactor': 3, 'trendTimeperiod': 291, 'gradient': 0.02153905438148316, 'stoploss': 2.0442166139241, 'maxLastExit': 1}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 45, 'devFactor': 2, 'trendTimeperiod': 253, 'gradient': 0.08833288569230377, 'stoploss': 0.5233985142943469, 'maxLastExit': 5}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 23, 'devFactor': 2, 'trendTimeperiod': 155, 'gradient': 0.019541616024466437, 'stoploss': 3.860015992872473, 'maxLastExit': 17}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 26, 'devFactor': 3, 'trendTimeperiod': 230, 'gradient': 0.011058953869208278, 'stoploss': 3.896873384700636, 'maxLastExit': 7}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 50, 'devFactor': 2, 'trendTimeperiod': 175, 'gradient': 0.05712927213361079, 'stoploss': 3.145692179464956, 'maxLastExit': 9}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 45, 'devFactor': 1, 'trendTimeperiod': 278, 'gradient': 0.0642650643398978, 'stoploss': 2.45697162523976, 'maxLastExit': 8}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 29, 'devFactor': 4, 'trendTimeperiod': 238, 'gradient': 0.0026135583779059003, 'stoploss': 2.4210113351024054, 'maxLastExit': 16}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 43, 'devFactor': 3, 'trendTimeperiod': 189, 'gradient': 0.0244056011914337, 'stoploss': 0.6470237961705058, 'maxLastExit': 16}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 33, 'devFactor': 1, 'trendTimeperiod': 187, 'gradient': 0.0005599336248789721, 'stoploss': 2.614081322085486, 'maxLastExit': 4}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 19, 'devFactor': 1, 'trendTimeperiod': 258, 'gradient': 0.0026299576933634496, 'stoploss': 0.7416140304526405, 'maxLastExit': 10}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 14, 'devFactor': 2, 'trendTimeperiod': 276, 'gradient': 0.009497133875365339, 'stoploss': 2.1755848682092975, 'maxLastExit': 8}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 48, 'devFactor': 2, 'trendTimeperiod': 171, 'gradient': 0.03212810800533307, 'stoploss': 2.1869133282237696, 'maxLastExit': 11}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 18, 'devFactor': 5, 'trendTimeperiod': 224, 'gradient': 0.03590038660766547, 'stoploss': 2.3885268994204543, 'maxLastExit': 16}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 36, 'devFactor': 2, 'trendTimeperiod': 183, 'gradient': 0.029910172525502456, 'stoploss': 1.0715510205351766, 'maxLastExit': 16}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 36, 'devFactor': 1, 'trendTimeperiod': 202, 'gradient': 0.0036962480524118657, 'stoploss': 1.6458750087809835, 'maxLastExit': 2}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 29, 'devFactor': 3, 'trendTimeperiod': 183, 'gradient': 0.02221437764242621, 'stoploss': 0.42445413108456786, 'maxLastExit': 11}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 46, 'devFactor': 3, 'trendTimeperiod': 237, 'gradient': 0.008059042929355909, 'stoploss': 0.7343406106738444, 'maxLastExit': 9}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 30, 'devFactor': 3, 'trendTimeperiod': 174, 'gradient': 0.083793846874573, 'stoploss': 0.7314246872422832, 'maxLastExit': 10}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 15, 'devFactor': 1, 'trendTimeperiod': 296, 'gradient': 0.03852586775353857, 'stoploss': 1.9990303526052149, 'maxLastExit': 19}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 11, 'devFactor': 1, 'trendTimeperiod': 223, 'gradient': 0.040411268855222, 'stoploss': 2.4003291386535155, 'maxLastExit': 15}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 41, 'devFactor': 2, 'trendTimeperiod': 261, 'gradient': 0.015249837721990723, 'stoploss': 2.3598161789418155, 'maxLastExit': 2}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 45, 'devFactor': 4, 'trendTimeperiod': 174, 'gradient': 0.055416808047045234, 'stoploss': 2.5639338925743607, 'maxLastExit': 10}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 48, 'devFactor': 2, 'trendTimeperiod': 159, 'gradient': 0.02073992510801135, 'stoploss': 1.6473450428748706, 'maxLastExit': 15}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 17, 'devFactor': 4, 'trendTimeperiod': 156, 'gradient': 0.03479657211206919, 'stoploss': 1.7121836822720298, 'maxLastExit': 10}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 26, 'devFactor': 1, 'trendTimeperiod': 199, 'gradient': 0.09368199857671346, 'stoploss': 1.7876569326086398, 'maxLastExit': 18}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 43, 'devFactor': 3, 'trendTimeperiod': 211, 'gradient': 0.042324972840373815, 'stoploss': 2.2027589639618657, 'maxLastExit': 5}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 25, 'devFactor': 4, 'trendTimeperiod': 252, 'gradient': 0.08881794501285109, 'stoploss': 3.5100587200828706, 'maxLastExit': 6}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 39, 'devFactor': 1, 'trendTimeperiod': 299, 'gradient': 0.06818975574678682, 'stoploss': 1.8129910018419486, 'maxLastExit': 4}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 26, 'devFactor': 3, 'trendTimeperiod': 248, 'gradient': 0.0526906512306122, 'stoploss': 3.5680043153132113, 'maxLastExit': 0}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 17, 'devFactor': 2, 'trendTimeperiod': 211, 'gradient': 0.02529690443178778, 'stoploss': 1.8023319529369788, 'maxLastExit': 10}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 16, 'devFactor': 1, 'trendTimeperiod': 254, 'gradient': 0.008591691152021897, 'stoploss': 0.5106209884502971, 'maxLastExit': 7}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 31, 'devFactor': 4, 'trendTimeperiod': 236, 'gradient': 0.02369339366633402, 'stoploss': 1.076068576531246, 'maxLastExit': 13}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 39, 'devFactor': 2, 'trendTimeperiod': 151, 'gradient': 0.04481191254485363, 'stoploss': 1.2255892487137263, 'maxLastExit': 7}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 29, 'devFactor': 5, 'trendTimeperiod': 278, 'gradient': 0.076870121365604, 'stoploss': 3.467398740186154, 'maxLastExit': 4}
+30/11/2020 11:40:31{'name': 'MEAN_REVERSION', 'period': 31, 'devFactor': 1, 'trendTimeperiod': 250, 'gradient': 0.027719077548101125, 'stoploss': 2.245226470341447, 'maxLastExit': 17}
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-21.69843548131914_lowestLow--4.026586068098153_highestHigh-27.761309845049276_numberOfHighs-116.0_numberOfLows-122.0_tradeCount-241.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent--3.960165660724365_lowestLow--4.026586068098153_highestHigh-0.8100336817372961_numberOfHighs-8.0_numberOfLows-5.0_tradeCount-13.0
+_returnsPercent--6.145661380772124_lowestLow--2.757987466846288_highestHigh-1.1254816122044604_numberOfHighs-6.0_numberOfLows-6.0_tradeCount-12.0
+_returnsPercent--0.13801635216451455_lowestLow--0.17698762083767267_highestHigh-0.03897126867315812_numberOfHighs-1.0_numberOfLows-1.0_tradeCount-2.0
+_returnsPercent-6.5641698367367045_lowestLow--5.898797485031817_highestHigh-14.4634862272553_numberOfHighs-286.0_numberOfLows-323.0_tradeCount-615.0
+_returnsPercent--1.2095019139363652_lowestLow--5.898797485031817_highestHigh-5.980124256576699_numberOfHighs-17.0_numberOfLows-24.0_tradeCount-41.0
+_returnsPercent--5.903413717652182_lowestLow--4.583109756462438_highestHigh-4.477139005038807_numberOfHighs-21.0_numberOfLows-27.0_tradeCount-48.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-22.906372503433655_lowestLow--4.267563381110185_highestHigh-26.137025730249885_numberOfHighs-84.0_numberOfLows-76.0_tradeCount-163.0
+_returnsPercent--4.205510491258053_lowestLow--1.89171477274356_highestHigh-1.5636388054959154_numberOfHighs-9.0_numberOfLows-10.0_tradeCount-19.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-15.636445028764715_lowestLow-0_highestHigh-14.4634862272553_numberOfHighs-4.0_numberOfLows-0.0_tradeCount-4.0
+_returnsPercent--1.4745062935493545_lowestLow--2.375291277460372_highestHigh-0.9007849839110174_numberOfHighs-1.0_numberOfLows-1.0_tradeCount-2.0
+_returnsPercent-6.339675929293466_lowestLow--3.3793455030293593_highestHigh-15.083831083182323_numberOfHighs-50.0_numberOfLows-61.0_tradeCount-112.0
+_returnsPercent-4.4021924131941175_lowestLow--2.1436824474345593_highestHigh-3.7912338988065413_numberOfHighs-18.0_numberOfLows-12.0_tradeCount-30.0
+_returnsPercent--3.5413230993876104_lowestLow--3.394224115116614_highestHigh-0.49008446730240196_numberOfHighs-2.0_numberOfLows-2.0_tradeCount-4.0
+_returnsPercent--13.299841343903013_lowestLow--5.805277013324337_highestHigh-0.42519433199650364_numberOfHighs-4.0_numberOfLows-8.0_tradeCount-12.0
+_returnsPercent-18.71014556759474_lowestLow--3.161768261233971_highestHigh-23.949020554568335_numberOfHighs-7.0_numberOfLows-5.0_tradeCount-12.0
+_returnsPercent-19.621426360235755_lowestLow--5.038339297224024_highestHigh-24.977988459138693_numberOfHighs-7.0_numberOfLows-4.0_tradeCount-11.0
+_returnsPercent--19.29084577377612_lowestLow--5.249911640534276_highestHigh-6.380786515848714_numberOfHighs-280.0_numberOfLows-328.0_tradeCount-624.0
+_returnsPercent-3.8532857708642814_lowestLow--5.446862232820751_highestHigh-7.207109100890266_numberOfHighs-464.0_numberOfLows-502.0_tradeCount-983.0
+_returnsPercent-15.979267596476943_lowestLow--2.072576207076845_highestHigh-14.448923204773465_numberOfHighs-191.0_numberOfLows-202.0_tradeCount-394.0
+_returnsPercent--2.2298547296668323_lowestLow--3.420488118030814_highestHigh-0.9677425680573775_numberOfHighs-8.0_numberOfLows-7.0_tradeCount-15.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-22.456281919403175_lowestLow--3.420488118030814_highestHigh-25.38792317673426_numberOfHighs-18.0_numberOfLows-15.0_tradeCount-34.0
+_returnsPercent-18.3896580903166_lowestLow--7.696775562973966_highestHigh-14.4634862272553_numberOfHighs-839.0_numberOfLows-833.0_tradeCount-1697.0
+_returnsPercent--0.328962939517228_lowestLow--2.1436824474345593_highestHigh-0.6026608710975273_numberOfHighs-7.0_numberOfLows-3.0_tradeCount-10.0
+_returnsPercent-13.311215166296583_lowestLow--5.038339297224024_highestHigh-23.338379175679492_numberOfHighs-22.0_numberOfLows-14.0_tradeCount-36.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-25.342067818888573_lowestLow--2.4308869940124302_highestHigh-28.51320243555337_numberOfHighs-30.0_numberOfLows-28.0_tradeCount-59.0
+_returnsPercent--9.427001210288731_lowestLow--6.5573201088319975_highestHigh-5.4250408303750985_numberOfHighs-54.0_numberOfLows-45.0_tradeCount-100.0
+_returnsPercent-8.673580265819034_lowestLow--4.485706846437383_highestHigh-27.56573515061177_numberOfHighs-78.0_numberOfLows-83.0_tradeCount-164.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-25.716368198813193_lowestLow--1.5819786763710781_highestHigh-14.4634862272553_numberOfHighs-60.0_numberOfLows-50.0_tradeCount-112.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-0.9255926782244117_lowestLow--2.448946101670183_highestHigh-3.324813084649382_numberOfHighs-5.0_numberOfLows-3.0_tradeCount-8.0
+_returnsPercent-0.08501642885043584_lowestLow-0_highestHigh-0.08501642885043584_numberOfHighs-1.0_numberOfLows-0.0_tradeCount-1.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent--14.942182441352323_lowestLow--5.805277013324337_highestHigh-0.49008446730240196_numberOfHighs-6.0_numberOfLows-8.0_tradeCount-14.0
+_returnsPercent-0.9007849839110174_lowestLow-0_highestHigh-0.9007849839110174_numberOfHighs-1.0_numberOfLows-0.0_tradeCount-1.0
+_returnsPercent-20.129464283062234_lowestLow--3.394224115116614_highestHigh-14.4634862272553_numberOfHighs-51.0_numberOfLows-42.0_tradeCount-94.0
+_returnsPercent-32.53460701672129_lowestLow--4.026586068098153_highestHigh-25.58015900505047_numberOfHighs-235.0_numberOfLows-284.0_tradeCount-524.0
+_returnsPercent-0.4074489389247417_lowestLow-0_highestHigh-0.4074489389247417_numberOfHighs-1.0_numberOfLows-0.0_tradeCount-1.0
+_returnsPercent-10.66364886850305_lowestLow--1.4446632130025177_highestHigh-5.043288223921997_numberOfHighs-22.0_numberOfLows-17.0_tradeCount-39.0
+_returnsPercent-0.0_lowestLow-0_highestHigh-0_numberOfHighs-0.0_numberOfLows-0.0_tradeCount-0.0
+_returnsPercent-23.590751109620285_lowestLow--4.026586068098153_highestHigh-25.58015900505047_numberOfHighs-40.0_numberOfLows-50.0_tradeCount-91.0
+
+
+
